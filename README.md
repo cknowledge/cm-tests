@@ -1,2 +1,1 @@
-# cm-examples
-Examples of CM automation
+## Testing and evaluating various tools with CM
